@@ -12,3 +12,7 @@
 *.png
 output/unet_cp_full_512batch5-20200324T143405Z-001/unet_cp_full_512batch5/checkpoint
 output/unet_cp_full-20200323T072357Z-001/unet_cp_full/checkpoint
+*.pb
+output/report/last20epochs.xlsx
+*.xlsx
+*.txt
