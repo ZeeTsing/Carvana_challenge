@@ -16,3 +16,5 @@ output/unet_cp_full-20200323T072357Z-001/unet_cp_full/checkpoint
 output/report/last20epochs.xlsx
 *.xlsx
 *.txt
+output/report/Carvana Image Masking Challenge.pdf
+2_Naive_CNN_trained.ipynb
